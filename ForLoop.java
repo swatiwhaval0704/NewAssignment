@@ -1,5 +1,6 @@
 public class Factorial
 {
+         //This program is for understanding for For loop funcationlity
 	public static void main(String[] args)
 	{	final int NUM_FACTS = 100;
 		for(int i = 0; i < NUM_FACTS; i++)
